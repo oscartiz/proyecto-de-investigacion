@@ -1,6 +1,5 @@
-# Proyecto De Investigacion
+# proyecto-de-investigacion
 
-Repositorio para el proyecto de investigación, conteniendo datos, scripts y notas del estudio.
+Reporte de investigación.
 
-## Descripción
-Este repositorio contiene el código y la documentación para el proyecto `proyecto-de-investigacion`.
+📄 **Documento completo:** [`Reporte_de_Investigación.pdf`](./Reporte_de_Investigaci%C3%B3n.pdf)
